@@ -9,6 +9,16 @@
 
   <br>
 
+  <h2>🙋‍♂️ Chi sono</h2>
+  <p align="left">
+    Mi chiamo <strong>ItalPascal</strong> e sviluppo applicazioni desktop in <strong>VB.NET</strong> e <strong>WinForms</strong>.  
+    Amo creare strumenti riutilizzabili, librerie e interfacce pulite.  
+    Mi piace condividere codice e idee per semplificare il lavoro di altri sviluppatori.  
+    Ogni progetto nasce da curiosità, passione e voglia di migliorare.
+  </p>
+
+  <br>
+
   <!-- Badge principali -->
   <a href="https://github.com/List051/WinItalPascal_Lib">
     <img src="https://img.shields.io/github/stars/List051/WinItalPascal_Lib?style=for-the-badge" alt="WinItalPascal Lib">
@@ -45,34 +55,34 @@
 
   <br>
 
-<h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack</h2>
 
-<p>
-  <a href="https://learn.microsoft.com/dotnet/visual-basic/" target="_blank">
-    <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET">
-  </a>
-  <a href="https://learn.microsoft.com/dotnet/desktop/winforms/" target="_blank">
-    <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms">
-  </a>
-  <a href="https://learn.microsoft.com/sql/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://learn.microsoft.com/dotnet/framework/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET%20Framework%204.8-68217A?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework 4.8">
-  </a>
-  <a href="https://www.nuget.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet">
-  </a>
-</p>
+  <p>
+    <a href="https://learn.microsoft.com/dotnet/visual-basic/" target="_blank">
+      <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET">
+    </a>
+    <a href="https://learn.microsoft.com/dotnet/desktop/winforms/" target="_blank">
+      <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms">
+    </a>
+    <a href="https://learn.microsoft.com/sql/" target="_blank">
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+    </a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+      <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    </a>
+    <a href="https://learn.microsoft.com/dotnet/framework/" target="_blank">
+      <img src="https://img.shields.io/badge/.NET%20Framework%204.8-68217A?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework 4.8">
+    </a>
+    <a href="https://www.nuget.org/" target="_blank">
+      <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet">
+    </a>
+  </p>
 
   <br>
 
@@ -91,16 +101,10 @@
 
   <br>
 
-<h2>📊 Statistiche GitHub</h2>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=List051&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight" />
+  <h2>📊 Statistiche GitHub</h2>
 
-<!-- Linguaggi più usati -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati da List051" />
-
-<!-- Linguaggi più usati -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati da List051" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=List051&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiche GitHub di List051" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati da List051" />
 
   <br><br>
 
