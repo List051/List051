@@ -45,16 +45,34 @@
 
   <br>
 
-  <h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-  <p>
-    <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-    <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </p>
+<p>
+  <a href="https://learn.microsoft.com/dotnet/visual-basic/" target="_blank">
+    <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/winforms/" target="_blank">
+    <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms">
+  </a>
+  <a href="https://learn.microsoft.com/sql/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/framework/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET%20Framework%204.8-68217A?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework 4.8">
+  </a>
+  <a href="https://www.nuget.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet">
+  </a>
+</p>
 
   <br>
 
