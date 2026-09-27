@@ -74,9 +74,8 @@
   <br>
 
 <h2>📊 Statistiche GitHub</h2>
-
-<!-- Statistiche generali -->
-<img src="https://github-readme-stats.vercel.app/api?username=List051&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiche GitHub di List051" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=List051&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight" />
 
 <!-- Linguaggi più usati -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=List051&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati da List051" />
